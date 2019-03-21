@@ -1,0 +1,10 @@
+hazelcast/DistributedRequest.class
+hazelcast/HazelCastConfiguration.class
+hazelcast/BeanLocator.class
+services/PlayerService.class
+services/PlayerService$1.class
+hazelcast/DistributedTask.class
+hazelcast/HazelCastConfiguration$1.class
+servlet/MyServlet.class
+hazelcast/DistributedResponse.class
+entities/Player.class
