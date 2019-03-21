@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1">
+	<test name="GET_AND_ADD">
+		<classes>
+			<class name="evgeni.crud.rest.api.tests.get.GetPlayerTests" />
+			<class
+				name="evgeni.crud.rest.api.tests.get.GetAndAddPlayersTests" />
+			<class
+				name="evgeni.crud.rest.api.tests.connection.ConnectionTest" />
+		</classes>
+	</test>
+	<test name="PUT">
+		<classes>
+			<class name="evgeni.crud.rest.api.tests.put.UpdatePlayerTest" />
+		</classes>
+	</test>
+
+	<test name="DELETE">
+		<classes>
+			<class
+				name="evgeni.crud.rest.api.tests.delete.RemovePlayerTests" />
+		</classes>
+	</test>
+</suite>

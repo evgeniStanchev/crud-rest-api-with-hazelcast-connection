@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Beckam",
+        "age": 40,
+        "position": "midfielder"
+    },
+    {
+        "name": "R.Carlos",
+        "age": 44,
+        "position": "right-wing"
+    },
+    {
+        "name": "Ronaldinho",
+        "age": 40,
+        "position": "midfielder"
+    },
+    {
+        "name": "Drogba",
+        "age": 40,
+        "position": "forward"
+     } 
+]
+
